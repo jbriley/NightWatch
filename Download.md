@@ -1,10 +1,14 @@
 ***
-## Beta 2.0.4_1  (2/20/2016)
-### Download: [Beta 2.0.4_1 (Click here)](http://bit.ly/1XDI8Ye)
+## Version 2.0.4_2  (11/12/2016)
+### Download: [Version 2.0.4_2 (Click here)](https://github.com/StephenBlackWasAlreadyTaken/NightWatch/releases/download/v2.0.4_2/nightwatch204_2.apk)
+* Add option to show time on the widget (can be used as watchface via wearable-widgets on watches not supporting Android Wear)
+
+## Version 2.0.4_1  (2/20/2016)
+### Download: [Version 2.0.4_1 (Click here)](http://bit.ly/1XDI8Ye)
 * Fixed issue where watch faces crash after updating the watch os.
 
-## Beta 2.0.4  (1/15/2016)
-### Download: [Beta 2.0.4 (Click here)](http://bit.ly/1Pw0OmT)
+## Version 2.0.4  (1/15/2016)
+### Download: [Version 2.0.4 (Click here)](http://bit.ly/1Pw0OmT)
 * Fixed issue where updates came in (very) late.
 * Added support for Android Marshmallow
 * Added new watchface
